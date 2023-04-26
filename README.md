@@ -2,9 +2,7 @@
 
 >Status: Projeto em desenvolvimento....
 
-<p> Para rodar o projeto na sua maquina.
+```
+Para rodar o projeto na sua maquina. 🔄
+```
 
-```
-npm install
-```
-:)
